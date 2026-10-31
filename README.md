@@ -1,8 +1,28 @@
-# Jodrix Finance — Frontend
+# YouFinance · Frontend
+
+![React](https://img.shields.io/badge/React_18-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![React Query](https://img.shields.io/badge/React_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white)
 
 Frontend en **React + TypeScript + Vite** para el backend Spring Boot `finanzas`.
 Réplica del dashboard HTML con un **panel de widgets modulares** (mover, redimensionar,
 ocultar y añadir a tu gusto). El layout se guarda en tu navegador.
+
+> [!NOTE]
+> El backend está en **[youfinance-back](https://github.com/Jodrix15/youfinance-back)**.
+
+## Índice
+
+- [Requisitos](#requisitos)
+- [Instalación](#instalación)
+- [Arrancar en desarrollo](#arrancar-en-desarrollo)
+- [CORS](#cors-importante)
+- [Scripts](#scripts)
+- [Estructura](#estructura)
+- [El sistema de widgets](#el-sistema-de-widgets)
+- [Estado actual](#estado-actual)
 
 ## Requisitos
 
