@@ -142,3 +142,7 @@ categoría, Gastos recurrentes, Deudas activas y Cuentas.
   Deudas e Inversiones (páginas completas). El backend **no** expone aún un
   endpoint de dashboard (el controller está vacío) ni importe en gastos
   recurrentes; esas métricas se calculan en el cliente con lo disponible.
+
+---
+
+🤖 Desarrollado con ayuda de [Claude](https://claude.ai) como asistente de programación.
